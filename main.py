@@ -23,7 +23,7 @@ def create_task(task: Task):
 def read_tasks():
   return tasks
 
-#view specific task
+#view specific
 
 
 if __name__ == "__main__":
